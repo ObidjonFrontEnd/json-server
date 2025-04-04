@@ -1,0 +1,28 @@
+{
+  "cars": [
+    {
+      "id": "1",
+      "name": "BMW 3 Series",
+      "price": "45,000.00",
+      "model": "330i",
+      "year": "2023",
+      "img": "defold.jpg"
+    },
+    {
+      "id": "3",
+      "name": "BMW 3 Series",
+      "price": "45,000.00",
+      "model": "330i",
+      "year": "2023",
+      "img": "defold.jpg"
+    },
+    {
+      "id": "640a",
+      "name": "qeqw",
+      "price": "qweqw",
+      "model": "1eqwe",
+      "year": "1qeweq",
+      "img": "defold.jpg"
+    }
+  ]
+}
